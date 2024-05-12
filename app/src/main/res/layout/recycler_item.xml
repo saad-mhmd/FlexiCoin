@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/item_background"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textCardName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Card Name: "
+        android:textColor="#B7C9FF" />
+
+    <TextView
+        android:id="@+id/textCardNo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Card Number: "
+        android:textColor="#B7C9FF" />
+
+    <TextView
+        android:id="@+id/textCvv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CVV: "
+        android:textColor="#B7C9FF" />
+
+    <TextView
+        android:id="@+id/textCashAmount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cash Amount: "
+        android:textColor="#35C600"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/textDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Date: "
+        android:textColor="#B7C9FF" />
+</LinearLayout>

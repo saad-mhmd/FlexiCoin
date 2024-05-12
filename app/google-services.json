@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481248549086",
+    "project_id": "login-signup-firebase-88377",
+    "storage_bucket": "login-signup-firebase-88377.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481248549086:android:c2ec26477a18fac0a8ca4f",
+        "android_client_info": {
+          "package_name": "com.example.flexicoin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0OKHwlLT75OGNDVlkHcUbXgfjkoUaiDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
